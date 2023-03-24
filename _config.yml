@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: WORK TRK
+description: People and scripts for web development
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: work.trk.in.rs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Dev Tips: https://dev.trk.in.rs
