@@ -9,7 +9,7 @@ We do web development
 |TAX ID - PIB|113558877|
 |Reg ID - Maticni broj|66910474|
 |Bank account - Broj racuna|265-1100310083800-73|
-|Address - Adresa |B. Despota Stefana 14|
+|Address - Adresa |B. Despota Stefana 14 (uskoro)|
 |City, Country - Grad, Drzava|Novi Sad, Serbia|
 |Email - Imejl| ![email]({{ site.baseurl }}/assets/email.png "email")|
 
